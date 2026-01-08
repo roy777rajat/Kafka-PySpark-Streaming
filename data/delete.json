@@ -1,0 +1,29 @@
+{
+  "before": {
+    "fund_id": 177,
+    "fund_name": "",
+    "fund_code": "",
+    "fund_description": null,
+    "updated_at": 0,
+    "fund_price": null
+  },
+  "after": null,
+  "source": {
+    "version": "2.2.1.Final",
+    "connector": "postgresql",
+    "name": "pgsrc",
+    "ts_ms": 1767478198826,
+    "snapshot": "false",
+    "db": "finance",
+    "sequence": "[\"28458736\",\"28459048\"]",
+    "schema": "public",
+    "table": "fund_metadata",
+    "txId": 1419,
+    "lsn": 28459048,
+    "xmin": null
+  },
+  "op": "d",
+  "ts_ms": 1767478199163,
+  "transaction": null,
+  "source_system": "finance_db"
+}

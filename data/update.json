@@ -1,0 +1,29 @@
+{
+  "before": null,
+  "after": {
+    "fund_id": 183,
+    "fund_name": "Koch, Fisher and Joyce",
+    "fund_code": "CDY-AKTN",
+    "fund_description": "Section thing job student.",
+    "updated_at": 1766186410173448,
+    "fund_price": 444
+  },
+  "source": {
+    "version": "2.2.1.Final",
+    "connector": "postgresql",
+    "name": "pgsrc",
+    "ts_ms": 1767478077522,
+    "snapshot": "false",
+    "db": "finance",
+    "sequence": "[\"28458312\",\"28458368\"]",
+    "schema": "public",
+    "table": "fund_metadata",
+    "txId": 1417,
+    "lsn": 28458368,
+    "xmin": null
+  },
+  "op": "u",
+  "ts_ms": 1767478077831,
+  "transaction": null,
+  "source_system": "finance_db"
+}
